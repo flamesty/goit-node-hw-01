@@ -137,7 +137,7 @@ invokeAction(argv);
 ```shell
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 node index.js --action list
-
+![img_1.png](img_1.png)
 # Получаем контакт по id
 node index.js --action get --id 5
 
