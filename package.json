@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.1",
+  "description": "Node.js home work",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamesty/goit-node-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Vladyslav Sukachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamesty/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/flamesty/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  }
+}
