@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flamesty/goit-node-hw-01.git"
-  },
+  },node index.js --action list
   "keywords": [],
   "author": "Vladyslav Sukachev",
   "license": "ISC",
